@@ -590,8 +590,8 @@ video {
   height: 100vh;
 }
 
-.w-\[135px\] {
-  width: 135px;
+.w-\[190px\] {
+  width: 190px;
 }
 
 .w-\[330px\] {
@@ -606,32 +606,20 @@ video {
   width: 100vw;
 }
 
-.w-\[150px\] {
-  width: 150px;
-}
-
-.w-\[160px\] {
-  width: 160px;
-}
-
-.w-\[170px\] {
-  width: 170px;
-}
-
-.w-\[175px\] {
-  width: 175px;
+.w-\[195px\] {
+  width: 195px;
 }
 
 .w-\[185px\] {
   width: 185px;
 }
 
-.w-\[195px\] {
-  width: 195px;
+.w-\[180px\] {
+  width: 180px;
 }
 
-.w-\[190px\] {
-  width: 190px;
+.w-\[300px\] {
+  width: 300px;
 }
 
 .flex-col {
@@ -656,6 +644,22 @@ video {
 
 .gap-\[188px\] {
   gap: 188px;
+}
+
+.gap-40 {
+  gap: 10rem;
+}
+
+.gap-36 {
+  gap: 9rem;
+}
+
+.gap-\[150px\] {
+  gap: 150px;
+}
+
+.gap-\[160px\] {
+  gap: 160px;
 }
 
 .overflow-hidden {
@@ -737,12 +741,12 @@ video {
   --tw-gradient-to: #6743FF var(--tw-gradient-to-position);
 }
 
-.p-5 {
-  padding: 1.25rem;
-}
-
 .p-7 {
   padding: 1.75rem;
+}
+
+.p-9 {
+  padding: 2.25rem;
 }
 
 .px-10 {
@@ -763,6 +767,21 @@ video {
 .py-4 {
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.px-\[110px\] {
+  padding-left: 110px;
+  padding-right: 110px;
+}
+
+.px-\[115px\] {
+  padding-left: 115px;
+  padding-right: 115px;
 }
 
 .pb-8 {
@@ -795,6 +814,20 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-7xl {
+  font-size: 4.5rem;
+  line-height: 1;
+}
+
+.text-\[80px\] {
+  font-size: 80px;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .font-bold {
@@ -858,6 +891,11 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.text-gray-300 {
+  --tw-text-opacity: 1;
+  color: rgb(209 213 219 / var(--tw-text-opacity));
+}
+
 .shadow-lg {
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
@@ -884,20 +922,12 @@ video {
     margin-left: 3.5rem;
   }
 
+  .md\:ml-10 {
+    margin-left: 2.5rem;
+  }
+
   .md\:h-\[500px\] {
     height: 500px;
-  }
-
-  .md\:w-\[900px\] {
-    width: 900px;
-  }
-
-  .md\:w-\[700px\] {
-    width: 700px;
-  }
-
-  .md\:w-\[800px\] {
-    width: 800px;
   }
 
   .md\:w-\[750px\] {
