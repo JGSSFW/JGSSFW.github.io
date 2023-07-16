@@ -1,0 +1,1 @@
+Basic web project using just HTML and TailwindCSS for training purposes
