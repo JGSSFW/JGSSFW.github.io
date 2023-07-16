@@ -549,6 +549,11 @@ video {
   margin-bottom: 1.75rem;
 }
 
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
@@ -620,6 +625,18 @@ video {
 
 .w-\[300px\] {
   width: 300px;
+}
+
+.w-\[200px\] {
+  width: 200px;
+}
+
+.w-\[205px\] {
+  width: 205px;
+}
+
+.w-\[202px\] {
+  width: 202px;
 }
 
 .flex-col {
@@ -747,6 +764,10 @@ video {
 
 .p-9 {
   padding: 2.25rem;
+}
+
+.p-12 {
+  padding: 3rem;
 }
 
 .px-10 {
